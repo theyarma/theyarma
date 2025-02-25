@@ -5,4 +5,4 @@ I am a amateur game developer, self teaching myself everything that I learn. I c
 ---
 
 ### Languages I am learning and use
-[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;][MARKDOWN]
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
