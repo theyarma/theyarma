@@ -9,7 +9,7 @@ I am a amateur game developer, self teaching myself everything that I learn. I c
 ![](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp;
 ![](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
-
+![](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white)&nbsp;
 ---
 
 ### My Goals
