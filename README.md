@@ -7,9 +7,8 @@ I am a amateur game developer, self teaching myself everything that I learn. I c
 ### Languages I am learning and use
 ![](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp;
 ![](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white)&nbsp;
+![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ---
 
 ### My Goals
