@@ -1,20 +1,17 @@
 ### Welcome to my page
 
-I am a amateur game developer, self teaching myself everything that I learn. I currently work in the medical field which drew me to coding as a way to relax and now I have really started to take it seriously. I hope you find what you're looking for, and thanks for visiting!
+I'm a fully self-taught (amateur) developer with dreams of being a programmer/software engineer. I would love any feedback on any professional projects I upload to this page as your help can make my aspirations true. As a side project, I am learning simple things around game development, as that is everyone and their mom's side project.
 
 ---
 
 ### Languages I am learning and use
 ![](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)&nbsp;
 ![](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
-![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust&logoColor=white)&nbsp;
 ---
 
-### My Goals
-
-I want to be a indie game dev while doing what I want with my career. I am studying languages that are going to help me get to this goal
-and I would very much appreciate any feedback!
+### My Next Projects
+- [] Calculator
 
 ---
 
