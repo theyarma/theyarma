@@ -1,6 +1,6 @@
 ### Welcome to my page
 
-I'm a fully self-taught (amateur) developer with dreams of being a programmer/software engineer. I would love any feedback on any professional projects I upload to this page as your help can make my aspirations true. As a side project, I am learning simple things around game development, as that is everyone and their mom's side project.
+I'm a fully self-taught (amateur) developer with a focus on Garry's Mod and Arma 3 Addon development.
 
 ---
 
